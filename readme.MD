@@ -4,6 +4,6 @@ Power BI dashboard markkina- ja myynti-datasta, joka on peräisin microsoftin [s
 
 
 
-![Markkina-analyysi](\Photo\Market.gif)
+![Markkina-analyysi](/Photo/Market.gif)
 
-![Valmistaja](\Photo\Manufacturer.gif)
+![Valmistaja](/Photo/Manufacturer.gif)
